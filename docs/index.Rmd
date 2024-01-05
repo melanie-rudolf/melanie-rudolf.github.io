@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 
 
-**I am ecologist, artist, and human working to improve the environment and life around me**  
+**I am ecologist, artist, and human working to improve the environment and life around me.**  
 
 I currently work for the Arkansas Chapter of The Nature Conservancy as an ecologist. I spend my spring and summer leading our monitoring and adaptive management program, running transects, quantifying plot quadrats, and identifying plants to species. My fall and winter are spent analyzing data, writing monitoring reports, and applying for grants. Throughout the year I support our prescribed fire program, providing management recommendations, implementing prescribed fire activities, and performing first order fire effects monitoring.
 
@@ -20,6 +20,3 @@ I grew up in southwestern Ohio and fell in love with the outdoors while searchin
 
 I'm currently working on in improving my R coding and large data analysis skills, learning to play the drums, and knowing any plant I come upon. 
 
-
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
