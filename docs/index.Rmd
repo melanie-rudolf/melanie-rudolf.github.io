@@ -1,7 +1,6 @@
 ---
-title: "Webpage"
-author: "Melanie"
-date: "2024-01-03"
+title: "Melanie Rudolf"
+
 output: html_document
 ---
 
@@ -9,22 +8,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**I am ecologist, artist, and human working to improve the environment and life around me**  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+I currently work for the Arkansas Chapter of The Nature Conservancy as an ecologist. I spend my spring and summer leading our monitoring and adaptive management program, running transects, quantifying plot quadrats, and identifying plants to species. My fall and winter are spent analyzing data, writing monitoring reports, and applying for grants. Throughout the year I support our prescribed fire program, providing management recommendations, implementing prescribed fire activities, and performing first order fire effects monitoring.
 
-```{r cars}
-summary(cars)
-```
+I have a Masters of Science in Environmental Studies, my graduate thesis focused on the effects of non-native and hybrid cattail species on ecosystem structure and function in cattail dominated wetlands. This research focused on the plant community composition, biomass production, microbial community, macroinvertebrate community, soil nutrient cycling, and water chemistry of these wetlands.
 
-## Including Plots
+I grew up in southwestern Ohio and fell in love with the outdoors while searching for morel mushrooms with my Dad. To find a morel can be a daunting task, especially the first one. It takes a keen eye and patience. As I searched I noticed other wonderous things in the woods, the web of a spider in a devil's urn, a patch of toadshade trilliums, a delicate clothsline of dutchman's breeches. And I've been wandering around the woods ever since.
 
-You can also embed plots, for example:
+I'm currently working on in improving my R coding and large data analysis skills, learning to play the drums, and knowing any plant I come upon. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
